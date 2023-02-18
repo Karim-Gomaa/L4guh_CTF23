@@ -1,4 +1,4 @@
-# Let's GO
+# Snake
 
 Here I was given a text file on looking at, I recognazied that it's a python file exported as **manually_decompile.py**
 
